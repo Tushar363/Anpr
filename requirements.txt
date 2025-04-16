@@ -34,7 +34,7 @@ Flask-Cors==5.0.0
 fonttools==4.55.3
 from-root==1.0.2
 fsspec==2024.12.0
-# gdown==5.2.0
+gdown==5.2.0
 gitdb==4.0.11
 GitPython==3.1.43
 google-ai-generativelanguage==0.6.10
@@ -148,10 +148,10 @@ zipp==3.21.0
 dill==0.3.5.1
 from-root==1.0.2
 notebook==7.0.0a7
-gdown
-flask-cors
-flask
-gunicorn
+# gdown
+# flask-cors
+# flask
+# gunicorn
 
 
 # YOLOv5 requirements
