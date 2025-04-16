@@ -211,7 +211,7 @@ notebook==7.0.0a7
 # protobuf
 
 # database
-pymongo
+# pymongo
 boto3
 
 -e .
